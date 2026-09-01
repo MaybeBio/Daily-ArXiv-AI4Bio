@@ -5,7 +5,8 @@ The project automatically fetches the latest papers from arXiv based on keywords
 
 Papers are accumulated over time (never removed) and deduplicated by arXiv id.
 
-Last update: 2026-09-01
+Last update: 2026-09-02
+
 
 <!-- MANUAL:START -->
 > ⚠️ Add your own notes here. This block is preserved across automatic updates.
@@ -27,7 +28,6 @@ Last update: 2026-09-01
 > - [ ] 能否用上GitHub pages
 
 Also refer to: https://www.arxivdaily.com/
-
 <!-- MANUAL:END -->
 
 ## Intrinsically Disordered Proteins (IDR)
