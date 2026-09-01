@@ -1,11 +1,9 @@
 name: Update
 
+# Triggered by external cron (Cron-job.org) via workflow_dispatch, replacing GitHub schedule.
+# Cron-job.org: POST .../actions/workflows/update.yaml/dispatches, timezone Asia/Shanghai, daily 00:30 (`30 0 * * *`), body {"ref":"main"}.
 on:
-  label:
-    types:
-      - created # for test
-  schedule:
-      - cron: '30 16 * * *' # 00:30 Beijing time every day
+  workflow_dispatch:
 
 permissions:
   contents: write
