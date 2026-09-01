@@ -26,6 +26,7 @@ Last update: 2026-09-01
 >
 > - [ ] 能否用上GitHub pages
 
+Also refer to: https://www.arxivdaily.com/
 
 <!-- MANUAL:END -->
 
