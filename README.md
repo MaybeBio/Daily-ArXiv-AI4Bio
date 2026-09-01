@@ -22,7 +22,9 @@ Last update: 2026-09-01
 > - [ ] post-processing善后：
 >   - [ ] 如何批阅、整理每篇文献，也就是如何承接下游阅读流，zotero-MCP？
 >      
-> - [ ] 需要新增功能：翻译、Agent总结，对高通量paper先人工降噪一部分
+> - [ ] 需要新增功能：翻译、Agent总结，对高通量paper先人工降噪一部分，参考: https://github.com/RainerSeventeen/paper-tracker
+>
+> - [ ] 能否用上GitHub pages
 
 
 <!-- MANUAL:END -->
