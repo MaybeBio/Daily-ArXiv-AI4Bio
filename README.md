@@ -13,7 +13,8 @@ Last update: 2026-09-01
 - [x] Adapted and Modified from [DailyArXiv](https://github.com/zezhishao/DailyArXiv)
 
 > 🌟 Todo
->
+> - [ ] 整体workflow可再修改调整：https://github.com/Vincentqyw/cv-arxiv-daily、YuzeHao2023
+> 
 > - [ ] 后续需要修改+调整+范围收缩/新增 Topic：
 >     - [ ] 新增收束 DNA、ZF：MD
 >     - [ ] 新增收束 IDR、interaction、ensemble
