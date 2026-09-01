@@ -10,13 +10,17 @@ Last update: 2026-09-01
 <!-- MANUAL:START -->
 > ⚠️ Add your own notes here. This block is preserved across automatic updates.
 
-- [ ] Adapted and Modified from [DailyArXiv](https://github.com/zezhishao/DailyArXiv)
+- [x] Adapted and Modified from [DailyArXiv](https://github.com/zezhishao/DailyArXiv)
 
-> ⚠️ 后续需要修改+调整+范围收缩/新增 Topic：
+> 🌟 Todo
 >
-> DNA、ZF：MD
+> - [ ] 后续需要修改+调整+范围收缩/新增 Topic：
+>     - [ ] 新增收束 DNA、ZF：MD
+>     - [ ] 新增收束 IDR、interaction、ensemble
 >
-> IDR、interaction、ensemble
+> - [ ] post-processing善后：
+>   - [ ] 如何批阅、整理每篇文献，也就是如何承接下游阅读流，zotero-MCP？
+
 
 <!-- MANUAL:END -->
 
