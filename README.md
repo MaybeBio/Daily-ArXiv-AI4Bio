@@ -11,6 +11,13 @@ Last update: 2026-09-02
 <!-- MANUAL:START -->
 > ⚠️ Add your own notes here. This block is preserved across automatic updates.
 
+|产物|内容 |数据来源|是否累积|
+|--|--|--|--|
+|README|近 7 天文献（每个 topic 一个表格）|从 archive 里读 recent_rows_for_topic(days=7)|滚动 7 天窗口|
+|每日 Issue|当天这次运行新抓到且去重后新增的文献（现在显示全部）|new_papers_by_topic|快照，每天一份|
+|archive (papers/) |全部历史文献，按 topic/月归档|每次运行 append |永久积累，只增不减|
+
+
 - [x] Adapted and Modified from [DailyArXiv](https://github.com/zezhishao/DailyArXiv)
 
 > 🌟 Todo

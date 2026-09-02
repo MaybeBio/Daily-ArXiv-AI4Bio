@@ -49,7 +49,6 @@ topic_slugs = {
 ARCHIVE_DIR = "papers"
 max_result = 1000 # maximum query results from arXiv API for each topic
 window_hours = 72 # only fetch papers newly submitted or revised within this many hours (3 days)
-issues_result = 15 # maximum new papers to be included in the daily issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
 column_names = ["Title", "Link", "Abstract", "Date", "Comment"]
@@ -127,7 +126,7 @@ with open("README.md", "w") as f:
 # 5. write the daily issue with today's new papers
 with open(".github/ISSUE_TEMPLATE.md", "w") as f:
     f.write("---\n")
-    f.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
+    f.write("title: Latest {0} Papers - {1}\n".format(sum(len(p) for p in new_papers_by_topic.values()), get_daily_date()))
     f.write("labels: documentation\n")
     f.write("---\n")
     f.write("**Please check the [Github](https://github.com/MaybeBio/Daily-ArXiv-AI4Bio) page for a better reading experience and more papers.**\n\n")
@@ -135,7 +134,7 @@ with open(".github/ISSUE_TEMPLATE.md", "w") as f:
         papers = new_papers_by_topic[topic]
         f.write("## {0}\n".format(topic))
         if papers:
-            f.write(generate_table(papers[:issues_result], ignore_keys=["Abstract"]))
+            f.write(generate_table(papers, ignore_keys=["Abstract"]))
         else:
             f.write("No new papers today.\n")
         f.write("\n\n")
