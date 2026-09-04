@@ -1,5 +1,5 @@
 ---
-title: Latest 0 Papers - September 04, 2026
+title: Latest 1 Papers - September 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/MaybeBio/Daily-ArXiv-AI4Bio) page for a better reading experience and more papers.**
@@ -13,6 +13,7 @@ No new papers today.
 
 
 ## Protein Structure Deep Learning
-No new papers today.
-
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[An Integrative Computational Approach to Predict Viral Epitopes by Targeting the MHC-TCR Complexation](https://arxiv.org/abs/2609.03182v1)** | 2026-09-02 |  |
 
