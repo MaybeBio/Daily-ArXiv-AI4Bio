@@ -1,5 +1,4 @@
 import os
-import sys
 import time
 import pytz
 from datetime import datetime
@@ -61,8 +60,6 @@ seen_ids = scan_archive_ids(ARCHIVE_DIR)
 new_papers_by_topic = {}
 for topic, groups in topics.items():
     papers = get_new_papers_by_topic_with_retries(groups, column_names, max_result, window_hours)
-    if papers is None: # failed to get papers
-        sys.exit("Failed to get papers for topic: {0}".format(topic))
     deduped = []
     for paper in papers:
         pid = extract_base_id(paper["Link"])

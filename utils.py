@@ -94,7 +94,8 @@ def get_new_papers_by_topic_with_retries(groups: List[List[str]], column_names: 
         except Exception as e:
             print("Request failed ({0}), retrying...".format(e))
             time.sleep(60) # wait 1 minute before retrying
-    return None
+    print("Request failed after {0} retries, continuing with no papers for this topic.".format(retries))
+    return []
 
 
 def get_new_papers_by_topic(groups: List[List[str]], column_names: List[str], max_result: int, window_hours: int = 48) -> List[Dict[str, str]]:
