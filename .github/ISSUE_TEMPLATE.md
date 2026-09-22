@@ -1,5 +1,5 @@
 ---
-title: Latest 0 Papers - September 22, 2026
+title: Latest 1 Papers - September 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/MaybeBio/Daily-ArXiv-AI4Bio) page for a better reading experience and more papers.**
@@ -13,6 +13,7 @@ No new papers today.
 
 
 ## Protein Structure Deep Learning
-No new papers today.
-
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Nucleosome simulations suggest mechanisms of electrostatically-driven mesoscale chromatin evolution](https://arxiv.org/abs/2609.24907v1)** | 2026-09-21 | working paper |
 
