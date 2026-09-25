@@ -1,5 +1,5 @@
 ---
-title: Latest 0 Papers - September 25, 2026
+title: Latest 0 Papers - September 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/MaybeBio/Daily-ArXiv-AI4Bio) page for a better reading experience and more papers.**
