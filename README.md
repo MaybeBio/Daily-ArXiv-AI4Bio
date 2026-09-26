@@ -5,7 +5,7 @@ The project automatically fetches the latest papers from arXiv based on keywords
 
 Papers are accumulated over time (never removed) and deduplicated by arXiv id.
 
-Last update: 2026-09-26
+Last update: 2026-09-27
 
 
 <!-- MANUAL:START -->
