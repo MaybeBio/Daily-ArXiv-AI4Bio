@@ -1,5 +1,5 @@
 ---
-title: Latest 1 Papers - October 09, 2026
+title: Latest 2 Papers - October 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/MaybeBio/Daily-ArXiv-AI4Bio) page for a better reading experience and more papers.**
@@ -15,5 +15,6 @@ No new papers today.
 ## Protein Structure Deep Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Shortcut to Structure in AlphaFold 3](https://arxiv.org/abs/2610.08937v1)** | 2026-10-06 |  |
+| **[Three-dimensional imaging of isolated membrane-protein complexes in vacuo with an X-ray laser](https://arxiv.org/abs/2610.11729v1)** | 2026-10-08 |  |
+| **[MD-LLM-2: A Transferable Language Model of Molecular Dynamics with Physical Conditioning and Explicit Path Probabilities](https://arxiv.org/abs/2610.10879v1)** | 2026-10-07 |  |
 
