@@ -5,7 +5,7 @@ The project automatically fetches the latest papers from arXiv based on keywords
 
 Papers are accumulated over time (never removed) and deduplicated by arXiv id.
 
-Last update: 2026-10-12
+Last update: 2026-10-13
 
 
 <!-- MANUAL:START -->
@@ -40,9 +40,7 @@ Also refer to: https://www.arxivdaily.com/
 
 ## Intrinsically Disordered Proteins (IDR)
 
-| **Title** | **Date** | **Abstract** | **Comment** |
-| --- | --- | --- | --- |
-| **[Effect of Temperature and Added Salt on a Model Polyzwitterion Polymer in Dilute Solution](https://arxiv.org/abs/2610.04932v1)** | 2026-10-04 | <details><summary>Show</summary><p>The competitive interactions arising from the proximity of positive and negatively charged groups in the monomers in polyzwitterions (PZ) makes these polymers have properties similar in some ways to intrinsically disordered proteins. To gain qualitative insights into this important class of water-soluble polymers, we performed molecular dynamics (MD) simulations of a model PZ chain with an explicit solvent to understand the conformational state in the absence and presence of added salt. We find that isolated PZ chains under salt-free conditions adopt a self-associated state having a weak dependence on temperature. The addition of an appreciable amount of NaCl leads to a weakening of the intrachain associations, resulting in chain expansion, a transition reminiscent of the denaturation of globular proteins. In particular, the hydrodynamic penetration function, the ratio of hydrodynamic radius to the radius of gyration, of the PZ chains under salt free conditions, is found to be more consistent with a randomly branched polymer or single chain nanoparticle than a random coil polymer where the physical cross-links within the chain arise from the dipoles within the chain. The chain conformation not only tends to become larger with the addition of salt but also acquires a more appreciable temperature dependence of its average size with temperature. This swelling trend of PZ molecules with added salt, sometimes referred to as the anti-polyelectrolyte effect, is distinct from the normal trend polyelectrolytes, which typically become more contracted with the addition of salt. We also examined the spatial extent of the dynamic hydration layer the PZ chain, both with and without added salt, and the effect of temperature and salt concentration on the water mobility within this layer, and PZ side-chain mobility, whose dynamics is apparently strongly coupled to the surrounding water molecules.</p></details> | 29 pages, 9 figures |
+No new papers in the last 7 days.
 
 Archive: [papers/IDR/](papers/IDR/)
 
