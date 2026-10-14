@@ -1,5 +1,5 @@
 ---
-title: Latest 0 Papers - October 14, 2026
+title: Latest 1 Papers - October 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/MaybeBio/Daily-ArXiv-AI4Bio) page for a better reading experience and more papers.**
@@ -13,6 +13,7 @@ No new papers today.
 
 
 ## Protein Structure Deep Learning
-No new papers today.
-
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Calibrating AlphaFold confidence scores for interface quality](https://arxiv.org/abs/2610.17108v1)** | 2026-10-12 |  |
 
