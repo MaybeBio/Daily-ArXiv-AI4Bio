@@ -1,5 +1,5 @@
 ---
-title: Latest 1 Papers - October 21, 2026
+title: Latest 3 Papers - October 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/MaybeBio/Daily-ArXiv-AI4Bio) page for a better reading experience and more papers.**
@@ -15,5 +15,7 @@ No new papers today.
 ## Protein Structure Deep Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ProtGlycanDock: Towards Accurate Protein-Glycan Docking with Tailored Dataset, Benchmark and Model](https://arxiv.org/abs/2610.26009v1)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2026 Evaluations and Datasets Track. Datasets and source codes are released</p></details> |
+| **[Ensemble-Aware Structural Encoding (EASE): Conditioning Protein Encoders on Peptide Conformational Ensembles](https://arxiv.org/abs/2610.27638v1)** | 2026-10-20 |  |
+| **[Stronger artificial intelligence breakthroughs hasten their own exhaustion](https://arxiv.org/abs/2610.27296v1)** | 2026-10-19 |  |
+| **[Magnolia: A Persistent-Memory Agent Framework for Computational Chemistry](https://arxiv.org/abs/2610.27230v1)** | 2026-10-19 | <details><summary>https...</summary><p>https://github.com/HolobiomicsLab/Magnolia-AI</p></details> |
 
