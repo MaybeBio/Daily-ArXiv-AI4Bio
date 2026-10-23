@@ -5,7 +5,7 @@ The project automatically fetches the latest papers from arXiv based on keywords
 
 Papers are accumulated over time (never removed) and deduplicated by arXiv id.
 
-Last update: 2026-10-23
+Last update: 2026-10-24
 
 
 <!-- MANUAL:START -->
@@ -40,7 +40,9 @@ Also refer to: https://www.arxivdaily.com/
 
 ## Intrinsically Disordered Proteins (IDR)
 
-No new papers in the last 7 days.
+| **Title** | **Date** | **Abstract** | **Comment** |
+| --- | --- | --- | --- |
+| **[Emergent Entropic Forces Drive Inverse and Reentrant Phase Transitions in Condensates of Intrinsically Disordered Proteins](https://arxiv.org/abs/2610.30627v1)** | 2026-10-22 | <details><summary>Show</summary><p>We present a phenomenological, mean-field model for condensates of intrinsically disordered proteins that describes inverse phase transitions and qualitatively predicts reentrant phase behavior as a function of salt concentration. The model is based on a matrix-based formulation of the Flory-Huggins free energy, in which the enthalpic interaction parameter and the protein valence, defined here as the number of effective "sticky patches", are treated as free parameters. Its central insight is that integrating out dynamics of fast-moving molecular species generates an effective entropic force that increases the free-energy barrier to mixing, even within a mean-field description. We account for this by linking Gaussian integration of co-solutes to the Schur complement of the matrix-based Flory-Huggins free energy. This provides a general thermodynamic framework illustrating how enthalpic interactions that increase the number of available microstates necessarily induce effective entropic forces. We demonstrate the expressiveness and predictive power of the model by qualitatively reproducing recent experimental observations on the rabies virus phosphoprotein.</p></details> | <details><summary>20 pa...</summary><p>20 pages. 7 Figures. Comments welcome!</p></details> |
 
 Archive: [papers/IDR/](papers/IDR/)
 
