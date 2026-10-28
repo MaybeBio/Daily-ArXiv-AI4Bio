@@ -1,13 +1,12 @@
 ---
-title: Latest 2 Papers - October 28, 2026
+title: Latest 3 Papers - October 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/MaybeBio/Daily-ArXiv-AI4Bio) page for a better reading experience and more papers.**
 
 ## Intrinsically Disordered Proteins
-| **Title** | **Date** | **Comment** |
-| --- | --- | --- |
-| **[Beyond Static Structures: Linking Protein Dynamics to Function via DynaReason-Pro](https://arxiv.org/abs/2610.33804v1)** | 2026-10-24 |  |
+No new papers today.
+
 
 ## Protein-DNA Modeling & Simulation
 No new papers today.
@@ -16,5 +15,7 @@ No new papers today.
 ## Protein Structure Deep Learning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[mdRNAcat: A Molecular Dynamics RNA Catalog of REST2 Conformational Ensembles](https://arxiv.org/abs/2610.35204v1)** | 2026-10-26 | <details><summary>24 pa...</summary><p>24 pages, 9 figures. Dataset and accompanying resources available on Hugging Face under the HelmholtzAI-FZJ organization</p></details> |
+| **[Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops](https://arxiv.org/abs/2610.37656v1)** | 2026-10-27 | <details><summary>7 pag...</summary><p>7 pages, 1 figure. Accepted at the 9th Workshop on Machine Learning and the Physical Sciences (ML4PS 2026), co-located with NeurIPS 2026</p></details> |
+| **[A unified coarse-grained neural network potential for the dynamics of biomolecular complexes](https://arxiv.org/abs/2610.37606v1)** | 2026-10-27 |  |
+| **[Accurate structural modelling of protein-glycan recognition with GlycoWeave](https://arxiv.org/abs/2610.37410v1)** | 2026-10-27 |  |
 
