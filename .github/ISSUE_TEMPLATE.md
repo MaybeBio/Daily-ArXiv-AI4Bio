@@ -1,5 +1,5 @@
 ---
-title: Latest 0 Papers - October 30, 2026
+title: Latest 1 Papers - October 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/MaybeBio/Daily-ArXiv-AI4Bio) page for a better reading experience and more papers.**
@@ -13,6 +13,7 @@ No new papers today.
 
 
 ## Protein Structure Deep Learning
-No new papers today.
-
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[AtomSteer: Test-Time Constraint Steering for Atomistic Generative Models](https://arxiv.org/abs/2610.38517v1)** | 2026-10-28 |  |
 
